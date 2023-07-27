@@ -1,6 +1,7 @@
 ---
 label: Naming And Upload Rules
-icon: Alert
+icon: checklist
+order: 3
 ---
 
 +++ Naming folders correctly on the drive!

@@ -1,6 +1,7 @@
 ---
 label: Contribution Rules
-icon: alert
+icon: checklist
+order: 2
 ---
 <p>
 

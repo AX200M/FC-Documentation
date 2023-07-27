@@ -1,9 +1,9 @@
 input: .
 output: .retype
 favicon: static/favicon.png
-url: # Add your website address here
+url: https://ax200m.github.io/
 branding:
   title: FlightClub
-  label: Wiki
+  label: Official Site
 footer:
   copyright: Made with <3 By AX200M 

@@ -1,6 +1,6 @@
 ---
 icon: home
-label: Welcome To FlightClub ✈️
+label: Welcome ✈️
 ---
 
 # **FlightClub**
@@ -14,4 +14,3 @@ label: Welcome To FlightClub ✈️
 :::content-center
 [!button corners="pill" target="blank" icon="search" text="Index Search"](https://flightsclub.vercel.app/)
 :::
-
